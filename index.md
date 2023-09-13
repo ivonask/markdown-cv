@@ -1,91 +1,92 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ivona's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ivona Škorjanc
+MsC in Computing
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ivona.skorjanc@gmail.com">ivona.skorjanc@gmail.com</a>
+| <a href="https://www.linkedin.com/in/ivona-skorjanc/">Linkedin</a>
+| <a href="https://github.com/ivonask">GithHub</a>
 </div>
 
 
-## Currently
+### Experienced in
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Backend software development, CI/CD, SCRUM mastering 
 
 
-### Research interests
+### Professional interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+DevOps culture, efficient communication, agile planning
+
+
+## Work experience
+
+`6/2020 – 6/2023` 
+__AVL-AST - Platform backend developer and SCRUM master__
+- Developing user authentication libraries
+    - Keycloak, .NET
+- Integrating observability stack
+    - Grafana, InfluxDB
+- Containerization and integration of components
+    - Docker, HELM, Azure DevOps, Bash
+- Leading and moderating SCRUM processes
+
+`3/2019 – 5/2020` 
+__AVL-AST - Software development intern__
+- Big Data platform development
+    - REST APIs, Apache Kafka
+- Data Integration system development
+    - Apache Camel
+
+`9/2018 – 12/2018` 
+__Recogno - Software development intern__
+- IoT smart product development
+    - C++, Raspberry Pi, Bash
+
+## Certifications
+
+`3/2022` 
+__Certified SCRUM master__
+Scrum Alliance
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`9/2017 - 2/2020` 
+__Master of Science in Computing,__
+__University of Zagreb (FER)__
+- Thesis: Expression interpretability and feature analysis in symbolic regression
+    - supervisor: prof.dr.sc. Domagoj Jakobović
+- Project: Dynamic vehicle scheduling problem analysis
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`7/2019` 
+__Big Data technologies - summer school,__
+__Carlos III Madrid University__
 
-- Sizar
+`9/2017 – 7/2018` 
+__Erasmus+ student exchange,__
+__Politecnico di Milano__
+- Projects:
+    - UI and hardware design for a touch-operated robot
+        - Arduino, capacitive sensors
+    - App design for navigation of blind users
+        - GIS, design thinking process 
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`10/2014 – 7/2017` 
+__Bachelor of Science in Computing,__
+__University of Zagreb (FER)__
+- Thesis: Strategy evolution in multiplayer games using evolutionary algorithms
+- Project: Implementing general purpose Neural Network in ECF (Evolutionary Computation Framework)
+- Demonstrator for Computer Architecture 1 course
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2023 -->
+
 
 
