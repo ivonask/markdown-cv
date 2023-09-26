@@ -12,61 +12,65 @@ MsC in Computing
 </div>
 
 
-### Experienced in
-
-Backend software development, CI/CD, SCRUM mastering 
-
-
-### Professional interests
-
-DevOps culture, efficient communication, agile planning
+## Summary
+Experienced backend software developer with a background in Scrum mastering and a passion for DevOps culture and efficient communication. Seeking opportunities to contribute to innovative projects and drive organizational success.
 
 
 ## Work experience
 
-`6/2020 – 6/2023` 
-__AVL-AST - Platform backend developer and SCRUM master__
+`June 2020 – June 2023` 
+__AVL-AST - Platform backend developer and Scrum master__
+Part of a team responsible for developing general-use backend components, integrated by other product teams.
 - Developing user authentication libraries
-    - Keycloak, .NET
+    - Keycloak, .NET Core, .NET Framework, Windows installers (Advanced Installer)
 - Integrating observability stack
     - Grafana, InfluxDB
 - Containerization and integration of components
     - Docker, HELM, Azure DevOps, Bash
-- Leading and moderating SCRUM processes
+- Leading and moderating Scrum processes
 
-`3/2019 – 5/2020` 
+`March 2019 – May 2020` 
 __AVL-AST - Software development intern__
+Participating in development for two different agile teams.
 - Big Data platform development
     - REST APIs, Apache Kafka
 - Data Integration system development
-    - Apache Camel
+    - Apache Camel, Java
 
-`9/2018 – 12/2018` 
+`September 2018 – December 2018` 
 __Recogno - Software development intern__
-- IoT smart product development
+IoT smart product development.
+- Developing touch-responsive GUI
     - C++, Raspberry Pi, Bash
 
 ## Certifications
 
-`3/2022` 
-__Certified SCRUM master__
+`March 2022` 
+__Certified Scrum master__
 Scrum Alliance
 
 
 ## Education
 
-`9/2017 - 2/2020` 
+`September 2017 – February 2020` 
 __Master of Science in Computing,__
 __University of Zagreb (FER)__
 - Thesis: Expression interpretability and feature analysis in symbolic regression
     - supervisor: prof.dr.sc. Domagoj Jakobović
 - Project: Dynamic vehicle scheduling problem analysis
+- Extracurricular course: Basic Use of Linux Operating System
+- Extracurricular activities:
+    - Member of vocal ensemble Rezonanca
+    - KSET student club volunteer
+        - Music selection and event planning
+        - Brucošijada and JobFair organization
 
-`7/2019` 
+`July 2019` 
 __Big Data technologies - summer school,__
 __Carlos III Madrid University__
+Lectures and company visits.
 
-`9/2017 – 7/2018` 
+`September 2017 – July 2018` 
 __Erasmus+ student exchange,__
 __Politecnico di Milano__
 - Projects:
@@ -75,18 +79,53 @@ __Politecnico di Milano__
     - App design for navigation of blind users
         - GIS, design thinking process 
 
-`10/2014 – 7/2017` 
+`October 2014 – July 2017` 
 __Bachelor of Science in Computing,__
 __University of Zagreb (FER)__
 - Thesis: Strategy evolution in multiplayer games using evolutionary algorithms
 - Project: Implementing general purpose Neural Network in ECF (Evolutionary Computation Framework)
 - Demonstrator for Computer Architecture 1 course
+- Extracurricular activities:
+    - Member of vocal ensemble Rezonanca
+    - App Start contest 2017. finale
+    - Women's table tennis team member 
+        - competitions: Elektrijada and EuroZagreb
 
+`2010 - 2014` 
+__High school graduate,__
+__Prva riječka hrvatska gimnazija__
+- Best final exam (Matura) results in the school's student generation
+- Debate team: member and organization of tournaments
+    - Competed on national level 3 times
+    - Winners of county-level competition 2013
+    - Competed on numerous tournaments
+- School singing choir
+    - Competed on national level 2 times
 
+## Volunteer work 
+- High school volunteer group
+    - renovating elementary schools and kindergarten playgrounds
+- International debate tournament organization
+    - RiOpen 
+- Music festival volunteer
+    - Outlook, Dimensions 
+- Local municipality (Matulji) administrative work and resident surveying
+
+## Personal skills
+
+### Languages
+- Croatian - native
+- English - C1/C2
+- Italian - B2
+
+### Soft skills
+Gained through professional career, Scrum processes and years of doing Debate in high school.
+- Team player
+- Efficient communicator
+- Agile mindset and planning skills
+- Critical thinking
+- Presentational skills
 
 <!-- ### Footer
 
 Last updated: September 2023 -->
-
-
-
